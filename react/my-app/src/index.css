@@ -48,4 +48,30 @@ body {
   .game-info {
     margin-left: 20px;
   }
+
+  .node {
+    margin : 0 auto;
+    align-items: center;
+    color: black;
+    padding: 10px;
+    list-style: square;
+  }
   
+  .box{
+    margin: 10px;
+    
+  }
+
+  .data{
+    border: solid skyblue;
+    background-color: yellowgreen;
+    font-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: ;
+  }
+
+  .toggle{
+    display: none;
+  }
+
